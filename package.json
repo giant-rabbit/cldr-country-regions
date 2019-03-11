@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cldr": "^5.0.0"
+  },
+  "scripts": {
+    "build": "node json_builder.js"
+  }
+}
